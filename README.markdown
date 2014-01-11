@@ -1,6 +1,6 @@
-# Araxis Merge v1.0
+# Alfred Workflow for Araxis Merge
 
-This is the Alfred v2 workflow for those of you who use Subversion for version control. It helps with the tedious task of merging code between branches.
+This is the Alfred v2 workflow for those of you who use Subversion (or CVS for that matter) for version control. It helps with the tedious task of merging code between branches.
 
 For example, let's say you have the following directory structure:
 
@@ -10,7 +10,7 @@ For example, let's say you have the following directory structure:
       |- project2
       |- project2_branch
 
-With this workflow you can select any file or folder in project1, then use the hotkey to open the Araxis Merge window with the comparison of this file between preject1_trunk and project1_branch.
+With this workflow you can select any file or folder in project1, then use the hotkey to open the Araxis Merge window with the comparison of this file between preject1 and project1_branch.
 
 ### Configuration
 
