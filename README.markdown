@@ -1,4 +1,4 @@
-# Alfred Workflow for Araxis Merge
+# Araxis Merge Workflow for Alfred 2
 
 This is the Alfred v2 workflow for those of you who use Subversion (or CVS for that matter) for version control. It helps with the tedious task of merging code between branches.
 
